@@ -9,7 +9,7 @@ for /r %%f in (*.pdf) do (
     ocrmypdf ^
         --skip-text ^
         --tesseract-timeout 0 ^
-        --optimize 1 ^
+        --optimize 2 ^
         --output-type pdf ^
         "%%f" "%%f"
 )
