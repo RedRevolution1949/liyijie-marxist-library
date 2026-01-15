@@ -1,0 +1,33 @@
+[submodule "files/国际共产主义运动文献"]
+	path = files/国际共产主义运动文献
+	url = https://github.com/RedRevolution1949/revolution-literature
+[submodule "files/苏联及其他国家著作"]
+	path = files/苏联及其他国家著作
+	url = https://github.com/RedRevolution1949/soviet-and-other-contries
+[submodule "files/人民日报（1946年5月——2003年12月）"]
+	path = files/人民日报（1946年5月——2003年12月）
+	url = https://github.com/RedRevolution1949/rmrb
+[submodule "files/中国共产党人的著作"]
+	path = files/中国共产党人的著作
+	url = https://github.com/RedRevolution1949/cpc-articles
+[submodule "files/马克思恩格斯列宁斯大林毛泽东全集"]
+	path = files/马克思恩格斯列宁斯大林毛泽东全集
+	url = https://github.com/RedRevolution1949/marx-lenin-stalin-mao
+[submodule "files/国际共产主义运动中的重大事件"]
+	path = files/国际共产主义运动中的重大事件
+	url = https://github.com/RedRevolution1949/big-events
+[submodule "files/文艺作品"]
+	path = files/文艺作品
+	url = https://github.com/RedRevolution1949/literary
+[submodule "files/马克思主义的基础 I （哲学)"]
+	path = files/马克思主义的基础 I （哲学)
+	url = https://github.com/RedRevolution1949/marxism-philosophy
+[submodule "files/马克思主义的基础 II（政治经济学)"]
+	path = files/马克思主义的基础 II（政治经济学)
+	url = https://github.com/RedRevolution1949/marxism-political-economics
+[submodule "files/中国当代政治运动史"]
+	path = files/中国当代政治运动史
+	url = https://github.com/RedRevolution1949/ccrd
+[submodule "files/国际共产主义人物传记"]
+	path = files/国际共产主义人物传记
+	url = https://github.com/RedRevolution1949/biographies
