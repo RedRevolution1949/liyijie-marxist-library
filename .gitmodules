@@ -1,6 +1,3 @@
-[submodule "files/国际共产主义运动文献"]
-	path = files/国际共产主义运动文献
-	url = https://github.com/RedRevolution1949/revolution-literature
 [submodule "files/苏联及其他国家著作"]
 	path = files/苏联及其他国家著作
 	url = https://github.com/RedRevolution1949/soviet-and-other-contries
@@ -31,3 +28,6 @@
 [submodule "files/国际共产主义人物传记"]
 	path = files/国际共产主义人物传记
 	url = https://github.com/RedRevolution1949/biographies
+[submodule "files/国际共产主义运动文献"]
+	path = files/国际共产主义运动文献
+	url = https://github.com/RedRevolution1949/revolution-literature.git
