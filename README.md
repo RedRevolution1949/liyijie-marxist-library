@@ -199,7 +199,7 @@ Windows 平台下，请复制 `files/compress.bat`。
 
 本知识库引用文档：
 
-- [中文马克思主义文库·PDF文库](https://mlm.likesu.dev/chinese/pdf/marxism-library.htm) （其中的 djvu 文档已转换为 pdf 文档， chm 文档已经解压，pdf 文档均已进行 OCR）
+- [中文马克思主义文库·PDF文库](https://mlm.likesu.dev/chinese/pdf/marxism-library.htm) （其中的 djvu 文档已转换为 pdf 文档， chm 文档已经解压）
 
 - [CCRD 中国当代政治运动史数据库](https://ccrd2023.github.io)
 
